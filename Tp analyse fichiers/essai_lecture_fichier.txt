@@ -1,0 +1,5 @@
+Essai @ de lecture de fichier € : ligne 1
+Voici la ligne 2
+et la ligne 3
+suivie par la ligne 4
+Enfin la dernière, la ligne 5
